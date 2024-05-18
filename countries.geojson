@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United States",
+        "description": "Population: 331 million"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-101.6015625, 39.095962936305476],
+          [-95.2734375, 35.460669951495305],
+          [-91.40625, 37.996162679728116],
+          [-101.6015625, 39.095962936305476]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canada",
+        "description": "Population: 37 million"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-106.6015625, 56.65622649350222],
+          [-98.7890625, 54.49556752187401],
+          [-95.2734375, 56.559482483762245],
+          [-106.6015625, 56.65622649350222]
+        ]]
+      }
+    }
+  ]
+}
