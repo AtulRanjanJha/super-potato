@@ -1,7 +1,7 @@
 import React, { useRef, useEffect, useState } from 'react';
 import * as THREE from 'three';
 import Globe from 'three-globe';
-import countries from '../countriesgeo.json'; // Adjust the path as needed
+import countries from 'countriesgeo.json'; // Adjust the path as needed
 
 const GlobeComponent = () => {
   const mountRef = useRef(null);
