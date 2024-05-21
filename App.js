@@ -1,6 +1,6 @@
 import React from 'react';
-import GlobeComponent from './components/Globe';
-import './App.css';
+import GlobeComponent from 'Globe';
+import 'App.css';
 
 function App() {
   return (
