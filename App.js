@@ -1,5 +1,5 @@
 import React from 'react';
-import GlobeComponent from 'Globe';
+import GlobeComponent from 'Globe.js';
 import 'App.css';
 
 function App() {
